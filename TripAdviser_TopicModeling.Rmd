@@ -87,7 +87,8 @@ graphics <- function(out_cloud, out_dist) {
   }
   dev.off()
   
-  topic_dist <- data.frame(x=colMeans(posterior(results)[[2]]), y=c("Topic1","Topic2","Topic3","Topic4","Topic5","Topic6","Topic7","Topic8","Topic9","Topic10"))
+  topic_dist <- data.frame(x=colMeans(posterior(results)[[2]]),
+  y=c("Topic1","Topic2","Topic3","Topic4","Topic5","Topic6","Topic7","Topic8","Topic9","Topic10"))
   topic_dist <- arrange(topic_dist,desc(x))
   png(out_dist, width=12,height=8, units='in', res=1000)
   par(mfrow=c(1,1))
