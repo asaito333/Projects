@@ -15,6 +15,6 @@ In this project, I analyzed <a href="http://kavita-ganesan.com/entity-ranking-da
 
 <h3>(3) <a href= "https://github.com/tnmasui/Projects/tree/master/IMDb" >Analyzing Movie Series Performance with IMDb Data by Python</a></h3>
 
-In this project, we created database with <a href="http://www.imdb.com/interfaces">IMDb plain text data files</a> by using <a href="http://imdbpy.sourceforge.net/">API (IMDbPY)</a>. Then, I <a href= "https://github.com/tnmasui/Projects/blob/master/IMDb/Series_Analysis.ipynb">analyzed how user ratings on movies differ across series numbers</a>. The following imange shows the result.
+In this project, we created dataset with <a href="http://www.imdb.com/interfaces">IMDb plain text data files</a> by using <a href="http://imdbpy.sourceforge.net/">API (IMDbPY)</a>. Then, I <a href= "https://github.com/tnmasui/Projects/blob/master/IMDb/Series_Analysis.ipynb">analyzed how user ratings on movies differ across series numbers</a>. The original data has multiple tables which includes such as title, movie type, rating, and box-office, so I joined those tables in this code. In addition, although the data have movies across countries, I only focus on US movie in this analysis. The following imange shows the result.
 
 <img src="https://github.com/tnmasui/Projects/blob/master/IMDb/IMG_IMdB.jpg" height="350" width="600">
