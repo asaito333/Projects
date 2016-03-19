@@ -9,6 +9,12 @@ Our project team analyzed <a href="http://insideairbnb.com/get-the-data.html">"I
 
 <h3>(2) <a href= "https://github.com/tnmasui/Projects/tree/master/TripAdviser" >Analyzing User Review Data of TripAdviser</a></h3>
 
-<a href= "https://github.com/tnmasui/Projects/blob/master/TripAdviser/TripAdviser_TopicModeling.Rmd">Implemented topic modeling on user comment data of TripAdviser</a>
+<a href= "https://github.com/tnmasui/Projects/blob/master/TripAdviser/TopicModeling.Rmd">Implemented topic modeling on user comment data of TripAdviser</a>
 
-<img src="https://github.com/tnmasui/Projects/blob/master/TripAdviser/Img_TripAdviser.jpg" height="400" width="700">
+<img src="https://github.com/tnmasui/Projects/blob/master/TripAdviser/IMG_TripAdviser.jpg" height="400" width="700">
+
+<h3>(3) <a href= "https://github.com/tnmasui/Projects/tree/master/IMDb" >Analyzing IMDb Rating Data with Python</a></h3>
+
+<a href= "https://github.com/tnmasui/Projects/blob/master/IMDb/SeriesAnalysis_Python.py">Analyzed ratings by series</a>
+
+<img src="https://github.com/tnmasui/Projects/blob/master/IMDb/IMG_IMdB.jpg" height="400" width="700">
