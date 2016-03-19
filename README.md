@@ -1,5 +1,5 @@
 # Analytics Projects
-Project work completed in the graduate courses
+Some project work completed in the graduate courses
 
 <h3>(1) <a href= "https://github.com/tnmasui/Projects/tree/master/InsideAirbnb" >Regression Model on Inside Airbnb data with Spark MLlib</a></h3>
 
