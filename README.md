@@ -9,7 +9,7 @@ In this project, I analyzed <a href="http://insideairbnb.com/get-the-data.html">
 
 <h3>(2) <a href= "https://github.com/tnmasui/Projects/tree/master/TripAdviser" >Topicmodeling on User Review Data of TripAdviser with R</a></h3>
 
-In this project, I analyzed <a href="http://kavita-ganesan.com/entity-ranking-data">TripAdviser's user review and rating data</a> and identified how users rate and comment on hotels for the purpose of user's better hotel choice. For that purpose, I performed <a href= "https://github.com/tnmasui/Projects/blob/master/TripAdviser/TopicModeling.Rmd">topic modeling on user comments by hotel location</a> and found out which factors users appreciate. The following imange shows part of the result.
+In this project, I analyzed <a href="http://kavita-ganesan.com/entity-ranking-data">TripAdviser's user review and rating data</a> and identified how users rate and comment on hotels by its location for the purpose of user's better hotel choice. To achieve that, I performed <a href= "https://github.com/tnmasui/Projects/blob/master/TripAdviser/TopicModeling.Rmd">topic modeling on user comments by hotel location</a> and found out which factors users appreciate or not. The following imange shows part of the result.
 
 <img src="https://github.com/tnmasui/Projects/blob/master/TripAdviser/IMG_TripAdviser.jpg" height="350" width="600">
 
