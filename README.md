@@ -15,6 +15,6 @@ Our project team analyzed <a href="http://insideairbnb.com/get-the-data.html">"I
 
 <h3>(3) <a href= "https://github.com/tnmasui/Projects/tree/master/IMDb" >Analyzing IMDb Rating Data with Python</a></h3>
 
-<a href= "https://github.com/tnmasui/Projects/blob/master/IMDb/SeriesAnalysis_Python.py">Analyzed ratings by series</a>
+<a href= "https://github.com/tnmasui/Projects/blob/master/IMDb/Series_Analysis.ipynb">Analyzed ratings by series</a>
 
 <img src="https://github.com/tnmasui/Projects/blob/master/IMDb/IMG_IMdB.jpg" height="400" width="700">
