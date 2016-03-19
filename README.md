@@ -3,7 +3,7 @@ Project work completed in the graduate courses
 
 <h3>(1) <a href= "https://github.com/tnmasui/Projects/tree/master/InsideAirbnb" >Regression Model on Inside Airbnb data with Spark MLlib</a></h3>
 
-In this project, I analyzed <a href="http://insideairbnb.com/get-the-data.html">"Inside Airbnb" data</a> to identify what factor affects property's rating to provide useful direction for users to choose better property or for property owners to increase rating score. To achieve that, I incorpolated this huge data into HDFS, <a href= "https://github.com/tnmasui/Projects/blob/master/InsideAirbnb/Preprocess_Hive.hql">manipulated data with Hive</a>, and <a href= "https://github.com/tnmasui/Projects/blob/master/InsideAirbnb/Regression_MLlib_Scala.txt">developed regression model by MLlib Scala in Spark</a>. The following chart shows what factors are the most significant for ratings. 
+In this project, I analyzed <a href="http://insideairbnb.com/get-the-data.html">"Inside Airbnb" data</a> to identify what factors affect property's rating to provide useful direction for users to choose better property or for property owners to increase rating score. To achieve that, I incorpolated this huge data into HDFS, <a href= "https://github.com/tnmasui/Projects/blob/master/InsideAirbnb/Preprocess_Hive.hql">manipulated data with Hive</a>, and <a href= "https://github.com/tnmasui/Projects/blob/master/InsideAirbnb/Regression_MLlib_Scala.txt">developed regression model by MLlib Scala in Spark</a>. The following chart shows what factors are the most significant for ratings. 
 
 <img src="https://github.com/tnmasui/Projects/blob/master/InsideAirbnb/IMG_Airbnb.jpg" height="350" width="600">
 
